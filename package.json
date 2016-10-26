@@ -4,7 +4,7 @@
   "description": "azure app service testing",
   "main": "index.js",
   "engines": {
-    "node": "~6.9.1"
+    "node": ">=6.9.0 <7.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
