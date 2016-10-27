@@ -2,23 +2,9 @@
   "name": "azure-appservice-test",
   "version": "1.0.0",
   "description": "azure app service testing",
-  "main": "index.js",
   "engines": {
     "node": ">=6.9.0 <7.0.0"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dumeez/azure-appservice-test.git"
-  },
-  "author": "Vincent ELLAMA",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dumeez/azure-appservice-test/issues"
-  },
-  "homepage": "https://github.com/dumeez/azure-appservice-test#readme",
   "dependencies": {
     "lwip": "0.0.9"
   }
