@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "azure app service testing",
   "engines": {
-    "node": ">=6.9.0 <7.0.0"
+    "node": "6.6.0"
   },
   "dependencies": {
     "lwip": "0.0.9"
