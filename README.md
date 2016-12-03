@@ -2,7 +2,11 @@
 
 This repo is intended to test azure app service with lwip
 
-## Error
+## New Error
+
+After the november update, the new log file can be found [here](npm-debug.log)
+
+## Old Error
 
     Counting objects: 5, done.
     Delta compression using up to 4 threads.
